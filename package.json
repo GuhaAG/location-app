@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "0.18.1",
+    "axios": "0.21.0",
     "braces": "3.0.2",
     "expo": "31.0.6",
     "js-yaml": "3.13.1",
