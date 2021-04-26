@@ -17,7 +17,7 @@
     "mem": "5.1.1",
     "react": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "ws": "7.1.2"
+    "ws": "7.4.5"
   },
   "devDependencies": {
     "babel-preset-expo": "5.2.0"
