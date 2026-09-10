@@ -20,6 +20,6 @@
     "ws": "7.1.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "5.2.0"
+    "babel-preset-expo": "57.0.11"
   }
 }
